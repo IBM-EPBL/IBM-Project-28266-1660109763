@@ -11,6 +11,7 @@
                 <div class="card-body p-1-9 p-xl-5">
                     <div class="mb-4">
                         <h3 class="h4 mb-0">THARUNKUMAR  A</h3>
+                        <p class="text-secondary mb-1"><b>Software Developer</b></p>
                         <span class="text-primary">B.TECH/IT</span>
                     </div>
                     <ul class="list-unstyled mb-4">

@@ -24,4 +24,4 @@ Project Description:
 
 Industry Mentors: Khusboo
 
-Faculty Mentor: A. Beulah
+Faculty Mentor: Sankaran L

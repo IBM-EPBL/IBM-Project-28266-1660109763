@@ -1,1 +1,26 @@
+System Required:
 
+8GB RAM
+Intel Core i3
+OS-Windows/Linux/MAC
+Laptop or Desktop
+
+
+Software Required:
+
+Python
+Flask
+Docker
+
+
+Skills Required:
+
+IBM Cloud
+HTML
+Javascript
+IBM Cloud Object Storage
+Python-Flask
+Kubernetes
+Docker
+IBM DB2
+IBM Container Registry
